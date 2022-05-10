@@ -1,0 +1,4 @@
+-ola meu nome é maria izabel
+-estou interessada em aprender programaçâo
+-atualmente estou aprendendo a mexer no github
+-estou procurando colaborar em programar no github
